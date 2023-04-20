@@ -1,8 +1,8 @@
 # CMPINF0010-Final-Project
 ## The Neighborhood Navigators
-### Team Members: Eddie Lin - edl59@pitt.edu, Aidan Lowe - ail39@pitt.edu , Kaden Jackson - EMAIL
+### Team Members: Eddie Lin - edl59@pitt.edu, Aidan Lowe - ail39@pitt.edu , Kaden Jackson - kgj8@pitt.edu
 Databases used:
-1. https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh - This dataset
+1. https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh - This dataset lists all of the fire incidents that occurred within the city of Pittsburgh
 
 2. https://data.wprdc.org/dataset/arrest-data - This dataset contains information on each arrest in the City of Pittsburgh.
    
